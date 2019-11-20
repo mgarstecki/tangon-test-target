@@ -1,0 +1,6 @@
+sudo: required
+language: go
+go: '1.11'
+
+script:
+- echo Hello world !
