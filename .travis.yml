@@ -3,4 +3,5 @@ language: go
 go: '1.11'
 
 script:
+- sleep 60
 - echo Hello world !
